@@ -22,7 +22,7 @@ a{
 }
 a:hover{
    font-size: 22px;
-   transition: 0.7s;
+   transition: .7s;
    
 }
 button {
